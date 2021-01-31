@@ -1,0 +1,4 @@
+﻿  Kaynak.c
+C:\Users\msi\source\repos\guess\guess\Kaynak.c(18,12): warning C4013: 'time' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\msi\source\repos\guess\guess\Kaynak.c(21,12): warning C4101: 'choose': yerel değişken başvurusu kaldırıldı
+  guess.vcxproj -> C:\Users\msi\source\repos\guess\Debug\guess.exe
