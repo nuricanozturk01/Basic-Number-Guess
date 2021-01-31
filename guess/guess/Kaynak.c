@@ -21,7 +21,7 @@ void main()
 	int health = HEALTH;
 
 
-	printf("Key: %d\n", secretNumber);
+	//printf("Key: %d\n", secretNumber);
 	for (int i = 1; i < 2;)
 	{
 		printf("\n[+]Enter the number between 0-%d\n", MAX_SIZE);
