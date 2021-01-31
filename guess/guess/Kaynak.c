@@ -1,7 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
-#include <locale.h>
 #include <windows.h>
 
 
@@ -14,7 +13,7 @@ void main()
 {
 	typedef enum Level { PRO, GOOD, STUPID } Level;
 	Level level = STUPID;
-	//setlocale(LC_ALL ,"Turkish");
+	
 	srand(time(0));
 
 	int secretNumber = rand() % MAX_SIZE;
