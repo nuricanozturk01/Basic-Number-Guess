@@ -22,7 +22,7 @@ void main()
 
 
 	//printf("Key: %d\n", secretNumber);
-	for (int i = 1; i < 2;)
+	for (; ;)
 	{
 		printf("\n[+]Enter the number between 0-%d\n", MAX_SIZE);
 		scanf_s("%d", &guess);
